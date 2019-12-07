@@ -48,4 +48,4 @@ print('Hello world!')
 $env:Path
 ```
 
-![](file:///C:/Users/erhai/Code/learn.markdown/%E5%9B%BE%E7%89%87.png)
+<img src="file:///C:/Users/erhai/Code/learn.markdown/%E5%9B%BE%E7%89%87.png" />
